@@ -1,1 +1,1 @@
-print('successfully Deploye Jenkins projects')
+print('successfully Deploye Jenkins projects'
